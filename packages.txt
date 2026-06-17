@@ -1,0 +1,22 @@
+vim / gvim
+git
+wl-clipboard
+kitty
+alacritty
+vesktop-bin
+waybar
+hyprland
+xdg-desktop-portal-hyprland
+rofi
+dunst
+keepassxc
+firefox
+obsidian
+docker
+syncthing
+neovim
+htop
+pavucontrol
+ttf-jetbrains-mono-nerd
+zsh
+yay
