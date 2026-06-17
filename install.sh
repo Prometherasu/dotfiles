@@ -25,6 +25,7 @@ PACMAN_PACKAGES=(
     xdg-desktop-portal-hyprland
     rofi
     dunst
+    hyprpaper
 
     # Apps
     brightnessctl
